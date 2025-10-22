@@ -44,10 +44,10 @@ datasets/
 
 > For downloading links and official splits, follow the **Data Availability** section of the paper and/or the dataset homepages.
 
-### Configuration
+## Model checkpoint
+> First, we need to download a model checkpoint. The model checkpoints can be downloaded from
 
-- Default image size: **256×256** (resize during training/inference).  
-- Typical augmentations: horizontal/vertical flip, rotation, Gaussian blur, shift–scale transforms.
+- [Knaseem/BAASNet](https://huggingface.co/Knaseem/BAASNet/upload/main)
 
 ---
 
