@@ -1,10 +1,5 @@
 # BAASNet: Boundary-Aware Deep Learning for Accurate Polyp Segmentation
 
-
-
-- **Authors**: Khola Naseem, Nabeel Khalid, Andreas Dengel, Sheraz Ahmed  
-- **Repo (example)**: `https://github.com/Khola-naseem/BAASNet`
-
 ---
 
 ## Installation
