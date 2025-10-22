@@ -15,10 +15,6 @@
 - torchvision ≥ 0.13
 - OpenCV, Albumentations, NumPy,timm, tqdm, scikit-image, scikit-learn,  matplotlib
 
-```bash
-pip install -r requirements.txt
-```
-
 ### Example conda environment setup
 ```bash
 conda create -n baasnet python=3.10 -y
