@@ -47,7 +47,7 @@ datasets/
 ## Model checkpoint
 > First, we need to download a model checkpoint. The model checkpoints can be downloaded from
 
-- [Knaseem/BAASNet](https://huggingface.co/Knaseem/BAASNet/upload/main)
+- [BAASNet](https://huggingface.co/Knaseem/BAASNet/upload/main)
 
 ---
 
