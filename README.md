@@ -41,7 +41,7 @@ datasets/
   PraNet/                   # CVC-ColonDB, ETIS, CVC-300, Kvasir, CVC-ClinicDB
   EndoTect/                 # images/, masks/
 ```
-
+Downloading the CVC-EndoSceneStill dataset, which can be found in this [Google Drive link](https://drive.google.com/file/d/1MuO2SbGgOL_jdBu3ffSf92feBtj8pbnw/view?usp=sharing)
 > For downloading links and official splits, follow the **Data Availability** section of the paper and/or the dataset homepages.
 
 ## Model checkpoint
